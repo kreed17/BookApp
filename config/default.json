@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+    "mongodb+srv://kam:maxwell98@cluster0.ysvfx.mongodb.net/test?retryWrites=true&w=majority"
+  }
